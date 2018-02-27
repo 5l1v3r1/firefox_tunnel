@@ -6,6 +6,9 @@ For I/O of payloads uses cookie.sqlite and html with javascript to auto submit, 
 
 https://github.com/CoolerVoid/firefox_tunnel/blob/master/doc/paper/firefox_tunnel_paper.pdf
 
+
+Step by step to run the PoC:
+
 https://github.com/convisoappsec/firefox_tunnel/blob/master/doc/Beamer_Keynote_looking_style.pdf
 
 # YouTube demo:
